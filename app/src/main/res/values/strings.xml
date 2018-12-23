@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloNuma</string>
+    <string name="button_title_1">Ke Halaman 1</string>
+    <string name="button_title_2">Ke Halaman 2</string>
+    <string name="button_title_3">Ke Halaman 3</string>
+    <string name="button_title_4">Ke Halaman 4</string>
+    <string name="button_title_5">Ke Halaman 5</string>
+    <string name="activity_1_label_1_text">This is Activity 1</string>
+    <string name="chk_hscode_button_text">Check HS Code</string>
+    <string name="enter_hs_code_label">Please enter HS Code to check</string>
+    <string name="hs_code_text_hint">Example: 0101.21.00</string>
+    <string name="request_button">Send</string>
+</resources>
